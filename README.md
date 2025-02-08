@@ -1,6 +1,6 @@
 # Speech Emotion Recognition (SER) with RAVDESS Dataset
 
-A comparative study of SVM and CNN models for emotion recognition from speech using Mel-Frequency Cepstral Coefficients (MFCCs).
+A comparative study of SVM and CNN models for emotion recognition from speech using **Mel-Frequency Cepstral Coefficients (MFCCs)**.
 
 ## 📁 Dataset
 **Source:** [RAVDESS Dataset](https://doi.org/10.1371/journal.pone.0196391)  
